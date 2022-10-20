@@ -38,7 +38,7 @@
               <input class="app-form-control" placeholder="Имя юзера" name="username" required>
             </div>
             <div class="app-form-group">
-              <input class="app-form-control" type="password" placeholder="vncpassword" value="onwAytw0" name="vncpassword">
+              <input class="app-form-control" type="password" placeholder="vncpassword" name="vncpassword">
             </div>
             <div class="app-form-group buttons">
 		</form>
