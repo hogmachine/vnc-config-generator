@@ -1,5 +1,5 @@
 # vnc-config-generator
-Generates tightvnc connection file fo Tightvnc viewer
+Generates tightvnc connection file for Tightvnc viewer
 # BULD AND RUN
 1. Install docker-ce docker
 1. git clone https://github.com/hogmachine/vnc-config-generator
